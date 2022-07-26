@@ -35,7 +35,7 @@ show_aboutme_card: true
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 about_me_description: >
-  I'm from Beijing, China, and I'm a sophomore at Yale University majoring in math and computer science. I started coding in 2020 when I was stuck at home due to COVID. I'm interested in a variety of topics in computer science, including machine learning algorithms, virtual reality games, and human computer interactions. During my free time, I play soccer, piano, and chess, and I like to read myself to sleep. I'm a fan of <a class="highlight-link" href="https://www.chelseafc.com/en" target="_blank" rel="noreferrer"> Chelsea FC </a>, <a class="highlight-link" href="https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0" target="_blank" rel="noreferrer"> Wynton Kelly </a>, and <a class="highlight-link" href="https://www.youtube.com/c/lexfridman" target="_blank" rel="noreferrer"> Lex Fridman </a>.
+  I'm from Beijing, China, and I'm a junior at Yale University majoring in math and computer science. I started coding in 2020 when I was stuck at home due to COVID. I'm interested in a variety of topics in computer science, including machine learning algorithms, virtual reality games, and human computer interactions. During my free time, I play soccer, piano, and chess, and I like to read myself to sleep. I'm a fan of <a class="highlight-link" href="https://www.chelseafc.com/en" target="_blank" rel="noreferrer"> Chelsea FC </a>, <a class="highlight-link" href="https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0" target="_blank" rel="noreferrer"> Wynton Kelly </a>, and <a class="highlight-link" href="https://www.youtube.com/c/lexfridman" target="_blank" rel="noreferrer"> Lex Fridman </a>.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -54,7 +54,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://docs.google.com/document/d/1hAq9gCJTzwtVztuDLm10Ina9GycVJyfA/edit?usp=sharing&ouid=116057820720236435067&rtpof=true&sd=true
+cv_download_link: https://drive.google.com/file/d/1wyaAmbak4KjXLpVwuWt8-h4PZgFxcIqH/view?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -64,13 +64,13 @@ show_projects_card: true
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
-show_projects: false
+show_projects: true
 # projects_title: The will be displayed as the title of your projects
 projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 

@@ -17,27 +17,34 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Yale Intelligent Computing Lab
+  title-url: https://interactive-machines.gitlab.io/
+  date: June 2022 - Present
+  subtitle: Research Assistant
+  tags:
+    - tag: Deep Learning
+    - tag: PyTorch
+  timeline-side: right
+
 - title: Yale Interactive Machines Group
   title-url: https://interactive-machines.gitlab.io/
-  date: June 2021 - Present
+  date: June 2021 - May 2022
   subtitle: Research Assistant
   tags:
     - tag: Unity
-    - tag: C#
     - tag: ROS
-    - tag: Ruby
-    - tag: Rails
+    - tag: Ruby On Rails
   timeline-side: right
 
 - title: Bytedance
   # title-url: https://example.com/
   date: Dec 2020 - May 2021
-  subtitle: Intern Software Engineer
+  subtitle: Software Engineer Intern
   tags:
     - tag: Python
     - tag: Tensorflow
     - tag: TF Serving
-    - tag: Pytorch
+    - tag: PyTorch
   timeline-side: right
 
 - title: Yale University
