@@ -12,7 +12,7 @@
   weight: 3
 
 - name: TF Serving,
-  weight: 3
+  weight: 2
 
 - name: Unity,
   weight: 3
@@ -21,4 +21,7 @@
   weight: 2
 
 - name: Rails,
-  weight: 2
+  weight: 1
+
+- name: Theseus,
+  weight: 3
