@@ -28,18 +28,19 @@
 
 - title: Yale Interactive Machines Group
   title-url: https://interactive-machines.gitlab.io/
-  date: June 2021 - May 2022
+  date: June 2021 - May 2022, September 2022 - Present
   subtitle: Research Assistant
   tags:
+    - tag: DL & Optimization
+    - tag: Theseus
     - tag: Unity
     - tag: ROS
-    - tag: Ruby On Rails
   timeline-side: right
 
 - title: Bytedance
   # title-url: https://example.com/
   date: Dec 2020 - May 2021
-  subtitle: Software Engineer Intern
+  subtitle: SDE Intern
   tags:
     - tag: Python
     - tag: Tensorflow
@@ -50,5 +51,5 @@
 - title: Yale University
   # title-url: https://example.com/
   date: 2020 - 2024
-  subtitle: B.Sc. Computer Science, B.Sc. Mathematics
+  subtitle: M.Sc. Computer Science, B.Sc. Mathematics
   timeline-side: left
