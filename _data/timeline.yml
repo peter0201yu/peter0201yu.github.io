@@ -17,6 +17,14 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Amazon AWS
+  date: May - August 2023
+  subtitle: SDE Intern
+  tags:
+    - tag: Frontend
+    - tag: DynamoDB
+  timeline-side: right
+
 - title: Yale Interactive Machines Group
   title-url: https://interactive-machines.gitlab.io/
   date: June 2021 - Present
@@ -26,7 +34,7 @@
     - tag: Theseus
     - tag: Unity
     - tag: ROS
-  timeline-side: right
+  timeline-side: left
 
 - title: Yale Intelligent Computing Lab
   title-url: https://interactive-machines.gitlab.io/
@@ -35,7 +43,7 @@
   tags:
     - tag: Deep Learning
     - tag: PyTorch
-  timeline-side: right
+  timeline-side: left
 
 - title: Bytedance
   # title-url: https://example.com/

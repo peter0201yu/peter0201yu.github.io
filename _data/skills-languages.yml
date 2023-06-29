@@ -8,14 +8,23 @@
 - name: Python,
   weight: 4
 
+- name: Javascript & JQuery,
+  weight: 3
+
 - name: C, 
   weight: 4
+
+- name: Golang,
+  weight: 3
+
+- name: Java,
+  weight: 3
 
 - name: C#, 
   weight: 3
 
-- name: Ruby, 
-  weight: 2
+- name: Haskell, 
+  weight: 3
 
 - name: Racket,
   weight: 2
